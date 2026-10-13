@@ -1,0 +1,16 @@
+{
+ "daily_total": 30,
+ "A": {
+  "daegu-liposuction": 4,
+  "daegu-arm": 4,
+  "daegu-abdomen": 4,
+  "daegu-thigh": 3
+ },
+ "B": {
+  "daegu-lams": 3,
+  "daegu-wegovy": 3,
+  "daegu-face": 3,
+  "daegu-revision": 3,
+  "daegu-gyno": 3
+ }
+}
