@@ -36,7 +36,13 @@
    "body_chars": 2269,
    "sha256_16": "eea4d637e72e389f",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "daegu-face-40",
+     "date": "2026-10-20",
+     "note": "원문의 굶는 다이어트·요요·근육 감소 사실을 얼굴 상담 이력 각도로 재구성"
+    }
+   ]
   },
   {
    "id": "004",
@@ -244,7 +250,13 @@
    "body_chars": 2057,
    "sha256_16": "1c9f26a8d2ea6075",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "daegu-arm-40",
+     "date": "2026-10-20",
+     "note": "팔뚝·겨드랑이·속옷 윗라인 범위 설정 각도(수치·시간 제외)"
+    }
+   ]
   },
   {
    "id": "019",
