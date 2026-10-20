@@ -699,7 +699,13 @@
    "body_chars": 1407,
    "sha256_16": "87ee3664dd0c2fd4",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "daegu-abdomen-42",
+     "date": "2026-10-21",
+     "note": "수술 후 체중 재증가와 복부 윤곽 변화 각도, 피하지방/내장지방 구분"
+    }
+   ]
   },
   {
    "id": "045",
